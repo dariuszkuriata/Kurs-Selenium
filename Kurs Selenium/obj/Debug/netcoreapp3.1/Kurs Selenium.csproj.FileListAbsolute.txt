@@ -97,3 +97,4 @@ C:\testing\C# projects\Kurs Selenium\Kurs Selenium\obj\Debug\netcoreapp3.1\Kurs 
 C:\testing\C# projects\Kurs Selenium\Kurs Selenium\obj\Debug\netcoreapp3.1\Kurs Selenium.dll
 C:\testing\C# projects\Kurs Selenium\Kurs Selenium\obj\Debug\netcoreapp3.1\Kurs Selenium.pdb
 C:\testing\C# projects\Kurs Selenium\Kurs Selenium\obj\Debug\netcoreapp3.1\Kurs Selenium.genruntimeconfig.cache
+C:\testing\C# projects\Kurs Selenium\Kurs Selenium\bin\Debug\netcoreapp3.1\Resources\chromedriver.exe
