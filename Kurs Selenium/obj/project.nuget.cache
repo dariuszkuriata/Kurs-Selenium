@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5cotGDsJGGnDadOs5y1ASgrN1jJ3mkCzKmrqEgz13sPwzoCzxpbHdTD4AKRvJG63VbDaRsujK85gk1EXmlhcaA==",
+  "dgSpecHash": "Hdoeb3XRyOG31YXWVqC46bOii61bQgt3FDyos9V3gEYooCXBhfnzfh5b3ZAhhrRYZTuVKb6Xwd5fgXvpG2rRjw==",
   "success": true,
   "projectFilePath": "C:\\testing\\C# projects\\Kurs Selenium\\Kurs Selenium\\Kurs Selenium.csproj",
   "expectedPackageFiles": [
@@ -21,6 +21,7 @@
     "C:\\Users\\dariu\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512",
     "C:\\Users\\dariu\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\dariu\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
+    "C:\\Users\\dariu\\.nuget\\packages\\selenium.webdriver.chromedriver\\90.0.4430.2400\\selenium.webdriver.chromedriver.90.0.4430.2400.nupkg.sha512",
     "C:\\Users\\dariu\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",
     "C:\\Users\\dariu\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\dariu\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",

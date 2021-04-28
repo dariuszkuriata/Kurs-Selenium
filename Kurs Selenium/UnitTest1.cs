@@ -11,13 +11,19 @@ namespace Kurs_Selenium
         [SetUp]
         public void Setup()
         {
-            driver = new ChromeDriver(@"C:\Testing\C# projects\Kurs Selenium\Kurs Selenium\bin\Debug\netcoreapp3.1\Resources\");
+            driver = new ChromeDriver();
         }
 
         [Test]
         public void Test1()
         {
             driver.Navigate().GoToUrl("http://google.pl");
+        }
+
+        [TearDown]
+        public void QuitDriver()
+        {
+            driver.Quit();
         }
     }
 }
